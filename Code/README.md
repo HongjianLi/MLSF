@@ -17,6 +17,6 @@ This directory contains Perl and R source code and bash scripts implementing the
 ## References
 [1] Kam-Heung Sze, Zhiqiang Xiong, Jinlong Ma, Gang Lu, Wai-Yee Chan, Hongjian Li. Influence of data similarity on the scoring power of machine-learning scoring functions for docking. In Proceedings of the 13th International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 3: BIOINFORMATICS. pp. 85-92, 2020. [DOI: 10.5220/0008873800850092]
 
-[2] Hongjian Li, Gang Lu, Kam-Heung Sze, Kwong-Sak Leung. Machine-Learning Scoring Functions Trained on Complexes Dissimilar to the Test Set Already Outperform Classical Counterparts on a Blind Benchmark.
+[2] Hongjian Li, Gang Lu, Kam-Heung Sze, Xianwei Su, Wai-Yee Chan, Kwong-Sak Leung. Machine-Learning Scoring Functions Trained on Complexes Dissimilar to the Test Set Already Outperform Classical Counterparts on a Blind Benchmark.
 
 [DOI: 10.5220/0008873800850092]: https://doi.org/10.5220/0008873800850092

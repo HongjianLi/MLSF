@@ -11,4 +11,4 @@ Data for reproducing the results presented in the paper by Li et al. [1].
 * `RMSE.pdf` same as above, but RMSE instead.
 
 ## References
-[1] Hongjian Li, Gang Lu, Kam-Heung Sze, Kwong-Sak Leung. Machine-Learning Scoring Functions Trained on Complexes Dissimilar to the Test Set Already Outperform Classical Counterparts on a Blind Benchmark.
+[1] Hongjian Li, Gang Lu, Kam-Heung Sze, Xianwei Su, Wai-Yee Chan, Kwong-Sak Leung. Machine-Learning Scoring Functions Trained on Complexes Dissimilar to the Test Set Already Outperform Classical Counterparts on a Blind Benchmark.
